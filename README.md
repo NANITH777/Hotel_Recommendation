@@ -57,3 +57,12 @@ This project implements a hotel recommendation system using Streamlit, a Python 
 - The application preprocesses hotel descriptions and calculates similarity scores based on user input.
 - It recommends the top 10 hotels with the highest similarity scores and average ratings.
 - Users can reset the input fields to start a new search.
+
+  # Interface with Streamlit
+
+<img width="381" alt="reset" src="https://github.com/NANITH777/Hotel_Recommendation/assets/109669139/01df39e4-2cdb-4d20-aac8-4d8527383468">
+<img width="404" alt="rec_result" src="https://github.com/NANITH777/Hotel_Recommendation/assets/109669139/e114229c-0101-4bdc-ae8d-0e5ec2d273ae">
+<img width="368" alt="Recommendation" src="https://github.com/NANITH777/Hotel_Recommendation/assets/109669139/bb30edff-9ca6-412d-974a-f327df96246e">
+<img width="361" alt="Result" src="https://github.com/NANITH777/Hotel_Recommendation/assets/109669139/e9998ea8-fa23-4e9b-9868-a2e2a1124e5e">
+<img width="379" alt="Hotel_findingR" src="https://github.com/NANITH777/Hotel_Recommendation/assets/109669139/4920c082-9c40-4b9e-a257-99358000ac4b">
+<img width="391" alt="Hotel_IT_1" src="https://github.com/NANITH777/Hotel_Recommendation/assets/109669139/d1cc2b04-6b64-4a7e-a00e-975bbe780ccc">
